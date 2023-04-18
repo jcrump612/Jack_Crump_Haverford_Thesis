@@ -163,7 +163,7 @@ z_max=3000
 #list of redshifts
 z_list=np.linspace(0,z_max,10000)
 #value of zeta to test
-zeta=2e-5
+zeta=1e-7
 #parameters to test
 arglist = (H0, Omega_m, omega, zeta, m)
 
